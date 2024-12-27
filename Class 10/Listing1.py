@@ -1,4 +1,4 @@
-# Insertion Sort 
+# Insertion Sort for Ascending Order
 
 def InsertionSort(A): 
     for i in range(1, len(A)): # Second Element to last Element
